@@ -196,8 +196,7 @@ Aspiring Data Analyst
 
 ### Connect with Me
 
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- GitHub: https://github.com/ugbevictoria
 - mail:ugbevictoria0@gmail.com
 
 ---
