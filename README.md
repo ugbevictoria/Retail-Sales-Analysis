@@ -119,19 +119,11 @@ Based on the analysis, the following recommendations were made:
 ## 📊 Dashboard Preview
 
 ### Excel Dashboard
+<img width="560" height="307" alt="image" src="https://github.com/user-attachments/assets/f1a4aadb-2967-4301-a666-8b0d72155167" />
 
-![Excel Dashboard](Images/excel-da<img width="560" height="307" alt="image" src="https://github.com/user-attachments/assets/f1a4aadb-2967-4301-a666-8b0d72155167" />
-shboard.png)
 
 ### Power BI Dashboard
-
-![Power BI Dashboard](Images/powerbi-d<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/dd00da18-ba7f-4e8b-b3e7-34aacd9cca41" />
-ashboard.png)
-
-> **Note:** Upload screenshots of your dashboards into an **Images** folder in this repository and name them:
->
-> - `excel-dashboard.png`
-> - `powerbi-dashboard.png`
+-d<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/dd00da18-ba7f-4e8b-b3e7-34aacd9cca41" />
 
 ---
 
