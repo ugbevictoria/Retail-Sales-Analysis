@@ -198,6 +198,7 @@ Aspiring Data Analyst
 
 - GitHub: https://github.com/YOUR-USERNAME
 - LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- mail:ugbevictoria0@gmail.com
 
 ---
 
