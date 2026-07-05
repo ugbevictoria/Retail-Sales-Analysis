@@ -157,28 +157,6 @@ Based on the analysis, the following recommendations were made:
 - Analytical Thinking
 - Business Reporting
 
----
-
-## 📂 Repository Structure
-
-```
-Retail-Sales-Analysis/
-│
-├── Dataset/
-│   └── Retail_Sales_Dataset.xlsx
-│
-├── Excel Dashboard/
-│   └── Retail_Sales_Dashboard.xlsx
-│
-├── Power BI Dashboard/
-│   └── Retail_Sales_Dashboard.pbix
-│
-├── Images/
-│   ├── excel-dashboard.png
-│   └── powerbi-dashboard.png
-│
-└── README.md
-```
 
 ---
 
@@ -197,7 +175,7 @@ Aspiring Data Analyst
 ### Connect with Me
 
 - GitHub: https://github.com/ugbevictoria
-- mail:ugbevictoria0@gmail.com
+- mail:   ugbevictoria0@gmail.com
 
 ---
 
