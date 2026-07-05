@@ -123,7 +123,7 @@ Based on the analysis, the following recommendations were made:
 
 
 ### Power BI Dashboard
--d<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/dd00da18-ba7f-4e8b-b3e7-34aacd9cca41" />
+<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/dd00da18-ba7f-4e8b-b3e7-34aacd9cca41" />
 
 ---
 
@@ -171,6 +171,4 @@ Aspiring Data Analyst
 - GitHub: https://github.com/ugbevictoria
 - mail:   ugbevictoria0@gmail.com
 
----
 
-⭐ **If you found this project useful, please consider giving it a star!**
